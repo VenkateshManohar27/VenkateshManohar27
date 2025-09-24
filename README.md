@@ -91,4 +91,8 @@
 
 [Cracking the coding interview] (https://github.com/VenkateshManohar27/CTCI.git)
 
+## 📫 Connect with Me
+
+- LinkedIn: [Venkatesh Manohar](https://www.linkedin.com/in/venkateshmanohar27)
+
 
